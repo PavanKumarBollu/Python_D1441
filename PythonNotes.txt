@@ -102,6 +102,9 @@ https://pycharm-community-edition.en.softonic.com/
 Different ways of writing the python programs 
 ----------------------------------------------
 
+3 ways
+
+
 
 
 
