@@ -1,0 +1,135 @@
+Apps develop 
+System instruction 
+collection of program to create application
+to speak with computer we need programming language
+to perform specific task we will provide some instruction then we will get the results
+OOP --> 
+its a medium between human and computer 
+foundations of software development
+cross platform integration 
+robust applications
+
+System ---> Computer --> Robot ( AI )  --> 
+
+system level language( 0's and 1's)
+---------------------
+when we want to control the computer we have to tell the instruction(orders) in 0's and 1's
+some people has written some programs in 0's and 1's also --> these kind of people on those days are like aliens from other planet 
+
+0001 --> 1
+0010 --> 2
+0011 --> 3
+.
+.
+.
+.
+
+so much difficult to write the programs in 0's and 1's 
+they started working on this problem and found on solution that is called assembly level language
+
+
+assembly level language
+-----------------------
+they have taken some commonly used functionalities and kept it with some name and that some names we will call it as keywords
+
+add -> addition
+subtract -> subtraction 
+.
+.
+.
+.
+division --> divides the numbers
+
+here the job is little bit easy for the programmers -- 
+but it is very difficult to do the long calculations
+
+
+then again they started working on this 
+then they found something which will work as a intermediate between the programmer and computer 
+that is high level programming languages --> C
+
+high level programming languages 
+--------------------------------
+
+c, C++, java. js,  python, php, go, r, cobal, pascal, ruby, .......... 9000+ languages in the world may be more
+
+which lang to learn..?
+
+completely depends on what you wanna do.
+
+
+
+
+C++ -- > when you speak about memory level then C++ Will be always there
+-------------------------------------------------------------------------
+
+
+
+
+high level language --> interpreter (compiler) --> 0'1 and 1's ---> output
+
+Python (Tell what do you want the system to do) -->  interpreter(compiler)  -->  0'1 and 1's --> output
+
+
+interpreter Or compiler are the intermediates bet ween the high level language and computer level language
+
+
+
+
+
+Task
+-----
+
+history and features of python 
+
+
+installing the python
+---------------------
+
+https://www.python.org/downloads/
+
+after downloading the python
+then we need the help of IDE(integrated Developing Environment )
+we can use any fvt ide like vscode or PyCharm , anaconda, online compiler, idle ... etc 
+
+pycharm link
+-------------
+
+https://pycharm-community-edition.en.softonic.com/
+
+
+
+Different ways of writing the python programs 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
