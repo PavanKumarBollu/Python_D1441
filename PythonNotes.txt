@@ -102,11 +102,28 @@ https://pycharm-community-edition.en.softonic.com/
 Different ways of writing the python programs 
 ----------------------------------------------
 
-3 ways
+there are three different ways which you can run the python program 
+	1. using notepad + cmd
+	2. using IDLE
+	3. using IDE
 
 
+1. using notepad + cmd
+-----------------------
+
+open the notepad --> then type the python program --> save the file with .py as extension --> go to that location in file Explorer
+--> then in the search location type cmd then press enter --> after opening the cmd then type the file name which you have saved
+--> then you will be able to see the result
 
 
+2. using IDLE
+--------------
+open Idle --> file -> new file --> type the python program --> save the file (no need to mention the .py)
+--> choose run -> run module(F5) --> then you will be able to see the result
+
+
+3. using IDE
+------------
 
 
 
