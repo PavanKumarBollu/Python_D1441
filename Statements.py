@@ -19,6 +19,6 @@ Types of Statements (programming statements)
 13 Creating and manipulating DS Statements
 14 Strings Statements
 """
-# 3. Input Statements
+
 
 
