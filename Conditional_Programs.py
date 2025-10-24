@@ -21,6 +21,10 @@
 # for example if user enters 23 then 2 digits , if user enters 9 then 1 digit ... till 5 digits if user enters more than
 # five digits then mention more than five digits
 
+
+# the following way of writing the conditions is called laddering
+# in general we will call it as lader if-else
+
 # u_input = int(input("Enter Your Number: "))
 #
 # if u_input >= 0 and u_input < 10:
@@ -37,9 +41,8 @@
 #     print("Please be positive enter some positive numbers")
 # else:
 #     print("More Than Five Digits")
-
-
-
+#
+#
 
 # grading system
 #  marks > 90 --> O
