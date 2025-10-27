@@ -134,6 +134,25 @@ without practice it's not possible to learn the python or any other programming 
 the key to master any programming language is practice not just listening the class
 
 
+Flow controls
+-------------
+
+conditional Statements
+    if
+    if-elif
+    if-elif-else
+
+transfer statements
+    break
+    continue
+    pass
+    goto - is not there in python
+
+iterative statements
+    for
+    while
+    do-while is not there in python
+
 
 
 
