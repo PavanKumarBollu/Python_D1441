@@ -6,9 +6,8 @@ if user say 2 then subtract 2
 if user say 3 then multiply
 if user say 4 then division
 if user say 5 or any other wrong input the exit (quit) form the application
-
-
 """
+
 while True:
     print("Choose any of the following options: ")
     print("1. Addition")
