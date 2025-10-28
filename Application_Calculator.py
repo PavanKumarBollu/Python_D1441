@@ -6,7 +6,16 @@ if user say 2 then subtract 2
 if user say 3 then multiply
 if user say 4 then division
 if user say 5 or any other wrong input the exit (quit) form the application
+
 """
+
+
+num_1 = 0
+num_2 = 0
+def user_input():
+    num_1 = int(input("Enter first number : "))
+    num_2 = int(input("Enter second number : "))
+    return num_1, num_2
 
 while True:
     print("Choose any of the following options: ")
@@ -19,20 +28,16 @@ while True:
     choice = int(input("Enter your choice here : "))
 
     if choice == 1:
-        num_1 = int(input("Enter first number : "))
-        num_2 = int(input("Enter second number : "))
+        num_1, num_2 = user_input()
         print("The result is: ", num_1 + num_2)
     elif choice == 2:
-        num_1 = int(input("Enter first number : "))
-        num_2 = int(input("Enter second number : "))
+        num_1, num_2 = user_input()
         print("The result is: ", num_1 - num_2)
     elif choice == 3:
-        num_1 = int(input("Enter first number : "))
-        num_2 = int(input("Enter second number : "))
+        num_1, num_2 = user_input()
         print("The result is: ", num_1 * num_2)
     elif choice == 4:
-        num_1 = int(input("Enter first number : "))
-        num_2 = int(input("Enter second number : "))
+        num_1, num_2 = user_input()
         print("The result is: ", num_1 / num_2)
     else:
         break
