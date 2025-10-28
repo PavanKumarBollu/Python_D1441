@@ -94,6 +94,16 @@ in programming laguage like python we will have two types of functions
 """
 
 
-
-
+# #take the number form the user and square of that number
+#
+# def square(num):
+#     return num ** 2
+#
+#
+# num = int(input("Enter a number: "))
+#
+# result = square(num)
+#
+# print(result)
+#
 
