@@ -61,7 +61,12 @@ where are + , - are operators
     ^ XOR
     ~ NOT
  
- Ternary Operator : 
+ Ternary Operator :
+  
+ names = ['kashifa', 'sadiya', 'bhanu',"shirisha", 'supriya', 'kumar', 'devendar', 'pavan',
+         'rakesh', 'vinnu', 'lucky', 'Amreen']
+
+list_with_a = [name for name in names if "a" in name]
  
 """
 

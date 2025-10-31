@@ -124,9 +124,39 @@
 #
 # """
 
+# 2. Write a Python program to remove a newline in Python String = "\nBest \nDeeptech \nPython \nTraining\n"
 
 
+# String = "Best \nDeeptech \nPython \nTraining "
+# print(String)
+# # new_str = String.strip()
+# # print(new_str)
+#
+# new_str = String.replace("\n"," ")
+# print(new_str)
+#
+#
+# 1. Write a Python program to count the occurrences of each word in a given sentence
+# string = “To change the overall look of your document. To change the look available in the gallery”
 
-
-
+# string = "To change the overall look of your document. To change the look available in the gallery"
+#
+# string_list = string.split(" ")
+# print(string_list)
+#
+# unique_items = dict()
+#
+#
+# for item in string_list:
+#     if item in unique_items:
+#         unique_items[item] += 1
+#     else:
+#         unique_items[item] = 1
+# print(unique_items)
+#
+# for item in unique_items:
+#     print(item , unique_items[item])
+#
+#
+#
 

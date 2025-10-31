@@ -100,4 +100,23 @@ std_5 = "MK"
 # print(list_std)
 
 
+#
+# scores =  [40,50,60,70,80,90,45,55,66,77,88,46,42,43,44,47,78,87,98,99]
+#
+# for p in scores:
+#     if p % 2 == 0:
+#         print(p)#prints each score in a line
+#
+#
+# num = 0
+# while num < len(scores):
+#     if scores[num] % 2 == 0:
+#         print(scores[num])
+#
+#     num += 1
+
+
+
+
+
 
