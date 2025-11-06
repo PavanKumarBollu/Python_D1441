@@ -56,8 +56,21 @@ my_tuple = (-1,2,3,101,120,10,20,30,40,55,65,75,10,78,90, 100)
 # print(b)
 # print(c)
 
-
 my_tuple = (-1,2,3,101,120,10,20,30,40,55,65,75,10,78,90, 100)
+print(my_tuple)
+a ,b, *c , y,z = my_tuple
+print(a)
+print(b)
+print(c)
+print(y)
+print(z)
+
+
+
+
+
+
+# my_tuple = (-1,2,3,101,120,10,20,30,40,55,65,75,10,78,90, 100)
 
 
 #sum all the tuple values
@@ -70,6 +83,6 @@ my_tuple = (-1,2,3,101,120,10,20,30,40,55,65,75,10,78,90, 100)
 #
 # print(sum(my_tuple))
 
-
-print(my_tuple.index(10))# prints the index number of the first occurrence of the 10 in the in tuple
-print(my_tuple[5])
+#
+# print(my_tuple.index(10))# prints the index number of the first occurrence of the 10 in the in tuple
+# print(my_tuple[5])
