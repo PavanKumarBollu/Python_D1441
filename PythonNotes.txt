@@ -165,6 +165,14 @@ iterative statements
 
 
 
+Modules and packages
+oops
+lamda functions
+testing and debugging
+
+
+file I/O
+exceptions
 
 
 

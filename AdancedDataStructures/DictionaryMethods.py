@@ -17,7 +17,7 @@ anp_d1441 = {
     "location":"madhapur"
 }
 
-print(anp_d1441)
+# print(anp_d1441)
 
 
 #clear() method it will remove all the key-values pairs from the dictionary and makes it empty dictionary
@@ -67,3 +67,17 @@ print(anp_d1441)
 # while count >= 0:
 #     print(anp_d1441[keys_list[count]])
 #     count -= 1
+
+def cal_sum(dict):
+    list = []
+    for i in dict:
+        # print(i)
+        list.append(dict[i])
+        # print(list)
+    results = sum(list)
+    return results
+
+my_dict = {"a":10,"b":20,"c":30,"d":40}
+
+print(cal_sum(my_dict))#100
+
