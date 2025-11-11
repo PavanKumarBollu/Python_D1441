@@ -1,0 +1,68 @@
+what is advanced python
+what is library ..?
+what is framework ..?
+
+
+when you download python into our system what exactly happens..?
+
+when we download the python into our system it will be a bunch of files contains some
+internal logics to make the python work like in-built functions logics, conditional statements logics
+, functions logics ...etc (.class files of the logics will be donloaded and used for execution of the code)
+
+along with the internal logic it will contain some files related to compiler working
+
+matrics
+arrays
+pivot table
+charts
+.
+.
+.
+.etc
+
+since the python is widely used programming language keeping everying in a single place and make the people download everything
+just for learning the core concept is not a good idea
+
+so they have divided the concepts into groups based on the work and use of those concepts
+
+here the groups is named as libraries
+
+
+libraries are nothing but collection of similar file which will help us to fulfill some specific requirement
+
+like when you want to work with excel files then we can choose pandas library
+
+what is framework ..?
+---------------------
+to make the developers life easy in coding they will take the help of frameworks to auto-complete the code
+or maintain some structure ...etc
+
+
+
+
+
+Numpy
+----
+
+numpy is a one of the famous python library which will help us to work with numerical type data
+like arrays, multidimensional arrays, matrics, it contains some functions to work on arrays
+
+these numpy library is used in machine learning, researchAndEngineering ... etc
+
+
+features of numpy
+-----------------
+element-wise-operations
+multidimensional data
+mathematical Functions
+Generating Random Generating
+effectively collaborates with other libraries
+
+
+for downloading the libraries we have two ways
+    1. using cmd(terminal)
+    2. using GUI
+
+ pip install numpy
+
+
