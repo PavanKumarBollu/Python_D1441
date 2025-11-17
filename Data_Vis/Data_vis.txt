@@ -1,0 +1,33 @@
+what is data visualization .. ?
+data vis is used for story telling( its a graphical reprasentation of the data)
+
+we have several types of visualizations
+
+    1. matplotlib(very popular library)
+    2. seaborn(built on top of matplotlib)
+    3. tableau
+    4. power bi
+    5. d3.js (java script)
+
+
+  types of visualizations
+  -----------------------
+    1. barplot(bar chart , column chart)
+    2. histogram
+    3. pie chart
+    4. area chart
+    5. scatter chart
+    6. line chart
+    .
+    .
+    .
+    .etc
+
+
+type the following command in the terminal to install matplot library
+    pip install matplotlib
+
+to check the version of the matplotlib do the following
+
+import matplotlib as plt
+print(plt.__version__)
