@@ -18,28 +18,35 @@
 
 # create the bar chart for the following student data
 
-import matplotlib.pyplot as p
+# import matplotlib.pyplot as p
+#
+#
+# sub_names = ["Maths", "CS", "Physics", "stats", "English"]
+# sub_marks = [55,40,60,75,59]
+#
+# bars = p.subplots()
+# chart = p.bar(sub_names, sub_marks)
+# p.title("Subject wise marks")
+# p.xlabel("SubjectNames")
+# p.ylabel("SubjectMarks")
+# p.show()
 
 
-sub_names = ["Maths", "CS", "Physics", "stats", "English"]
-sub_marks = [55,40,60,75,59]
+# 1. Execute the below code and find the output
 
-bars = p.subplots()
-chart = p.bar(sub_names, sub_marks)
-p.title("Subject wise marks")
-p.xlabel("SubjectNames")
-p.ylabel("SubjectMarks")
-p.show()
+# import matplotlib.pyplot as plt
+# x = [0, 5, 9, 10, 15, 20, 25]
+# y = [0, 1, 2, 3, 4, 5, 6]
+# plt.plot(x, y)
+# plt.show()
 
 
-
-
-
-
-
-
-
-
-
+# import matplotlib.pyplot as plt
+# from matplotlib._enums import JoinStyle
+# 
+# JoinStyle.demo()
+# plt.show()
+# 
+# 
 
 
