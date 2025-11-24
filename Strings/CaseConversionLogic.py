@@ -73,11 +73,33 @@ u_input = input("enter the string here : ")
 # to capitalize each starting letter
 
 
+def capitalize(u_input):
+    result = []
+    input_list = u_input.split()
+    print(input_list)
+
+    for ele in input_list:
+        if "A" <= ele[0] <= "Z":
+            result.append(ele)
+
+        if "a" <= ele[0] <= "z":
+            word_num = ord(ele[0])
+            word_num = word_num -32
+            char_upper = chr(word_num)
+            char_updated = char_upper + ele[1:]
+
+            result.append(char_updated)
+
+    return " ".join(result)
 
 
 
 
+print(capitalize(u_input))
 
 
+# Task write the logic for the following requirements(remember it will be not a single word)
+# input :  PaVaN KuMaR
+# result : pAvAn kUmAr
 
 
