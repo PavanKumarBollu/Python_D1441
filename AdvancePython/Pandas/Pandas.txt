@@ -1,0 +1,40 @@
+Pandas are also one of the main libraries which is used in the python for working with relational(tables)
+or any kind of labeled data
+
+it has a couple of data structures and operations for manipulating the numerical data
+
+Pandas has built on top of the Numpy Library
+
+Features of the pandas Libraries
+--------------------------------
+Data frame
+Series
+Input / Output
+Data cleaning
+aggrigative functions
+data transforming
+selecting and indexing
+Data visualization collaboration
+
+
+inserting the data( fields and records) is also possible
+pip install pandas
+
+
+import pandas as p
+
+print(p.__version__)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
