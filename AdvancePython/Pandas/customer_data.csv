@@ -267,7 +267,6 @@ Transaction_date,Transaction_ID,Gender,Age,Marital_status,State_names,Segment,Em
 23-09-2019,151453,Female,46,Married,Pennsylvania,Basic,Employees,Card,1,
 24-09-2019,151454,Male,34,Married,Texas,Basic,self-employed,Card,0,1901.16
 25-09-2019,151455,Female,48,Married,Alaska,Gold,workers,Card,0,1728.06
-26-09-2019,151456,Female,,Married,New Mexico,Basic,Unemployment,Card,1,2863.62
 27-09-2019,151457,Female,49,Single,Hawaii,Basic,workers,PayPal,1,1822.31
 28-09-2019,151458,Female,77,Single,Arizona,Basic,self-employed,Card,0,711.52
 29-09-2019,151459,Male,58,Married,California,Platinum,workers,Card,0,
@@ -278,7 +277,7 @@ Transaction_date,Transaction_ID,Gender,Age,Marital_status,State_names,Segment,Em
 4/10/2019,151464,Female,64,Married,Massachusetts,Gold,self-employed,PayPal,0,
 5/10/2019,151465,Female,36,Married,Texas,Platinum,Employees,Card,0,1608.01
 6/10/2019,151466,Male,43,Married,Montana,Basic,Unemployment,PayPal,1,2681.13
-7/10/2019,151467,Female,,Married,Nevada,Basic,self-employed,Card,1,2414.29
+7/10/2019,151467,Female,,Married,Nevada,Basic,null,"",1,2414.29
 8/10/2019,151468,Female,59,Married,Iowa,Gold,Employees,PayPal,0,2410.23
 9/10/2019,151469,Female,73,Married,Texas,Basic,workers,PayPal,1,63.2
 10/10/2019,151470,Female,32,Married,New York,Gold,Unemployment,Other,,522.24
@@ -294,7 +293,7 @@ Transaction_date,Transaction_ID,Gender,Age,Marital_status,State_names,Segment,Em
 20-10-2019,151480,Male,59,Married,Mississippi,Basic,self-employed,Card,1,2501.05
 21-10-2019,151481,Female,46,Married,Oklahoma,Basic,Employees,Card,1,1757.27
 22-10-2019,151482,Male,47,Single,Georgia,Platinum,workers,PayPal,1,1994.46
-23-10-2019,151483,Female,,Single,Indiana,Silver,workers,PayPal,0,1925
+23-10-2019,151483,Female,,Single,Indiana,Silver,workers,PayPal,NAN,1925
 24-10-2019,151484,Male,56,Single,Florida,Missing,workers,Other,1,1600.96
 25-10-2019,151485,Female,55,Married,Arizona,Basic,self-employed,Other,1,2773.68
 26-10-2019,151486,Male,43,Single,Nebraska,Silver,self-employed,PayPal,1,2749.66
@@ -449,7 +448,7 @@ Transaction_date,Transaction_ID,Gender,Age,Marital_status,State_names,Segment,Em
 23-03-2020,151635,Male,60,Married,Delaware,Basic,,Card,0,176.49
 24-03-2020,151636,Male,49,Married,Pennsylvania,Basic,Employees,PayPal,1,1154.13
 25-03-2020,151637,Female,41,Single,Oregon,Basic,Employees,PayPal,1,218.64
-26-03-2020,151638,Female,,Single,Colorado,Missing,workers,Card,0,903.79
+26-03-2020,151638,Female,,Single,Colorado,Missing,"",Card,0,903.79
 27-03-2020,151639,Female,27,Single,Colorado,Gold,Employees,PayPal,0,
 28-03-2020,151640,Male,54,Married,Nebraska,Basic,Employees,Card,1,682.48
 29-03-2020,151641,Female,52,Married,North Dakota,Basic,workers,PayPal,,1411.92
@@ -517,7 +516,7 @@ Transaction_date,Transaction_ID,Gender,Age,Marital_status,State_names,Segment,Em
 30-05-2020,151703,Female,41,Married,California,Silver,Employees,PayPal,1,867.63
 31-05-2020,151704,Female,34,Married,Pennsylvania,Basic,Employees,PayPal,1,962.6
 1/6/2020,151705,Male,26,Married,Pennsylvania,Missing,Employees,Card,1,1949.59
-2/6/2020,151706,Female,,Married,Illinois,Gold,Unemployment,PayPal,,1083.38
+2/6/2020,151706,Female,,Married,Illinois,"",Unemployment,PayPal,,1083.38
 3/6/2020,151707,Female,69,Married,West Virginia,Gold,Employees,PayPal,1,1377.65
 4/6/2020,151708,Female,45,Married,Minnesota,Basic,workers,PayPal,1,25.6
 5/6/2020,151709,Female,76,Single,Kansas,Silver,Employees,PayPal,1,82.27
@@ -539,7 +538,7 @@ Transaction_date,Transaction_ID,Gender,Age,Marital_status,State_names,Segment,Em
 21-06-2020,151725,Female,72,Married,Colorado,Silver,Employees,PayPal,1,380.86
 22-06-2020,151726,Female,24,Single,Minnesota,Basic,self-employed,Other,0,939.5
 23-06-2020,151727,Male,72,Single,Nevada,Basic,self-employed,PayPal,1,545.2
-24-06-2020,151728,Female,,Married,Indiana,Silver,Employees,PayPal,0,1940.06
+24-06-2020,151728,Female,,Married,Indiana,Silver,Employees,"",0,1940.06
 25-06-2020,151729,Male,69,Single,Arizona,Basic,workers,Other,1,2030.73
 26-06-2020,151730,Female,28,Single,Tennessee,Basic,Employees,Card,,1436.61
 27-06-2020,151731,Female,44,Single,Florida,Silver,Employees,Card,0,2485.69
@@ -656,7 +655,7 @@ Transaction_date,Transaction_ID,Gender,Age,Marital_status,State_names,Segment,Em
 16-10-2020,151842,Female,62,Single,Minnesota,Platinum,Unemployment,Other,1,1650.65
 17-10-2020,151843,Female,55,Married,Pennsylvania,Basic,Unemployment,Other,1,2917.55
 18-10-2020,151844,Female,18,Single,Michigan,Missing,self-employed,PayPal,0,1689.33
-19-10-2020,151845,Female,,Single,Vermont,Platinum,workers,PayPal,1,436.52
+19-10-2020,151845,Female,,Single,Vermont,Platinum,"",PayPal,1,436.52
 20-10-2020,151846,Female,53,Married,Oklahoma,Silver,Employees,PayPal,0,279.19
 21-10-2020,151847,Male,61,Single,Hawaii,Basic,workers,Other,1,2863.09
 22-10-2020,151848,,15,Married,Tennessee,Platinum,self-employed,PayPal,1,1921.83
@@ -749,7 +748,7 @@ Transaction_date,Transaction_ID,Gender,Age,Marital_status,State_names,Segment,Em
 17-01-2021,151935,Female,16,Married,South Dakota,Basic,Unemployment,Card,1,
 18-01-2021,151936,Male,54,Single,Kentucky,Basic,workers,PayPal,1,2654.79
 19-01-2021,151937,Female,39,Single,New York,Missing,workers,PayPal,1,1426.26
-20-01-2021,151938,Male,,Married,Alaska,Basic,workers,PayPal,1,664.37
+20-01-2021,151938,Male,,Married,Alaska,Basic,workers,"",1,664.37
 21-01-2021,151939,Female,56,Single,New Hampshire,Basic,Employees,Card,1,1049.31
 22-01-2021,151940,Male,41,Married,South Carolina,Platinum,workers,PayPal,0,
 23-01-2021,151941,Male,63,Married,Louisiana,Basic,self-employed,PayPal,0,383.85
@@ -2511,3 +2510,7 @@ Transaction_date,Transaction_ID,Gender,Age,Marital_status,State_names,Segment,Em
 14-11-2025,153697,Male,22,Single,South Carolina,Basic,workers,PayPal,1,2030.07
 15-11-2025,153698,,44,Single,New York,Basic,Employees,PayPal,0,1909.77
 16-11-2025,153699,Male,48,Single,California,Silver,workers,PayPal,1,1073.15
+15-09-2025,153637,Female,,Married,"",Silver,self-employed,Card,0,1251.45
+9/3/2019,151262,Male,15,Married,South Carolina,Basic,self-employed,Other,1,790.1
+15-09-2025,153637,Female,,Married,Missouri,Silver,self-employed,Card,0,1251.45
+,,,,,,,,,,

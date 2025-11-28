@@ -75,3 +75,31 @@ we can simply copy the file path and mention the file name that is enough for re
 
 
 
+"""
+writing the data to the csv file
+    write in the same location 
+    write in the different location
+
+to write the data to a csv file then we can use the to_csv function
+
+
+"""
+# write in same location and different location
+import pandas as pd
+
+student_data = {
+
+    "name":["PK"],
+    "Age":[25],
+    "Gender":["Male"],
+    "phoneNo":[1234567899],
+    "email":["abc@gmail.com"],
+}
+
+df = pd.DataFrame(student_data, columns=["name","Age","Gender","phoneNo","email"])
+file_name = "student_details1441.csv"
+file_name1 = "C:\\Users\\bpava\\Desktop\\student_details1441.csv"
+
+df.to_csv(file_name, index=False)
+df.to_csv(file_name1,index=False)
+
